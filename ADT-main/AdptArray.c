@@ -199,4 +199,3 @@ void PrintDB(PAdptArray pArr)
 // My name: Maya Rom
 // My id: 207485251
 // I used a part from the moodle's answer to this assignment
-
